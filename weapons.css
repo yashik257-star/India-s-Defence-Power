@@ -1,7 +1,0 @@
-body{font-family:Inter, system-ui; background:#f7fbff; margin:0}
-.container{max-width:900px; margin:0 auto; padding:1rem}
-.topbar{background:#0b4ea6; color:#fff; padding:0.75rem 0}
-.weapon{background:#fff; padding:1rem; margin:1rem 0; border-radius:10px; box-shadow:0 6px 16px rgba(11,78,166,0.06)}
-.weapon h3{margin-top:0}
-.note{color:#6b7280}
-.site-footer{padding:1rem 0; text-align:center}
