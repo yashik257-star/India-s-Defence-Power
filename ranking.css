@@ -1,0 +1,8 @@
+body{font-family:Inter, system-ui, -apple-system, sans-serif; background:#eef3fb; margin:0}
+.container{max-width:900px; margin:0 auto; padding:1rem}
+.topbar{background:#0b5ed7; color:#fff; padding:0.75rem 0}
+.topbar a{color:rgba(255,255,255,0.95); text-decoration:none; margin-left:0.6rem}
+.ranks{background:#fff; margin-top:1rem; padding:1rem; border-radius:10px; box-shadow:0 8px 20px rgba(11,78,215,0.06)}
+.ranks ol, .ranks ul{line-height:1.7}
+.note{color:#6b7280; font-size:0.9rem}
+.site-footer{padding:1rem 0; text-align:center}
